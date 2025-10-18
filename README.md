@@ -1,2 +1,2 @@
 # Singly_Linked_List
-This project is going to help you guys understand more about how singly linked list is worked and used.
+Let it be understood that the objective of this project lies in the edification of its participants through the meticulous study of the singly linked list—its construction, manipulation, and significance in the grand architecture of data structures. In undertaking this scholarly pursuit, one shall acquire not only technical proficiency but also an appreciation for the elegance inherent in linear dynamic storage.
